@@ -5,4 +5,4 @@ Computer Science coursework from my second year at SJSU. These include, but are 
 - Projects
 - Homeworks
 - Reports
-- Etc
+- Presentations
