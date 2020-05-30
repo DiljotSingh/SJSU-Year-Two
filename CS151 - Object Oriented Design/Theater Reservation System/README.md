@@ -55,9 +55,9 @@ Discount Nights (December 26-27): $20 for any seat
 
 Group Discount:
 
-5-10 persons: $2 discount per ticket
-11-20 persons: $5 discount per ticket
-Does not apply during Discount Nights
+- 5-10 persons: $2 discount per ticket
+- 11-20 persons: $5 discount per ticket
+- Does not apply during Discount Nights
 Combined transactions do not qualify for discounts. (i.e. if a user purchased three tickets during one transaction then purchased two more tickets during another transaction, then no group discount is applied for any of the transactions and the combined.)
 Group discount will be applied for the tickets purchased for a single show.
 Group discount will be applied for the tickets purchased for several sections in a show. For example, a user reserve seats for a particular show through multiple reservation sessions (remember a reservation session begins with [R] and ends with a user confirmation), the latest reservation should apply a discount considering previous reservations made for the show. For example, if a user reserved 2 seats in one reservation session and reserved 3 more seats in another reservation session for the same show, the system considers the user reserved 5 seats for the show and applies the group discount.
