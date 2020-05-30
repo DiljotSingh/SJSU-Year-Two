@@ -54,6 +54,7 @@ East Balconies: $40 (eb1-wb100)
 Discount Nights (December 26-27): $20 for any seat
 
 Group Discount:
+
 5-10 persons: $2 discount per ticket
 11-20 persons: $5 discount per ticket
 Does not apply during Discount Nights
