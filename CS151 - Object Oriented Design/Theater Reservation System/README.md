@@ -13,6 +13,7 @@ System Functions
 -----------------------------------
 When the system starts, it loads "reservations.txt" containing reservations made earlier. If the file does not exist or empty because it is the very first run of the program, the system doesn't load anything.
 Then, the program prompts the following initial menu:
+
 Sign [U]p   Sign [I]n   E[X]it
  
 A new user first signs up for the system, and then signs in the system using the user id and password. An existing user can directly sign in.
@@ -24,6 +25,7 @@ A new user first signs up for the system, and then signs in the system using the
 3. E[X]it: This option terminates the system, meaning you will get an operating system prompt back to you. This is not a user option in the real world but is used as a way to persist the in-memory data in a file for this assignment. With this option, the system copies the valid reservations of all registered users from the in-memory data structure to a file called 'reservations.txt'.
 
 When a user signs in, a transaction mode starts. That is, a transaction mode starts with sign-in and ends with sign-out. In the transaction mode, the user can choose options from the following transaction menu. This menu will be displayed after each selected option is done until the user enters O the sign-out to finish the transaction mode.
+
 [R]eserve    [V]iew    [C]ancel    [O]ut     
  
 1. [R]eserve: During a reservation session, that starts with R and ends with a user's confirmation, the following interactions are done between the user and the system. The system prompts the user to enter the date and time of the desired show. Then, it displays the list of all available seats for the requested show. The user can reserve multiple seats across different sections for the given show by entering the corresponding seat numbers. If the user attempts to reserve an unavailable seat, the system prompts an error message asking for another seat. Once the user is done with the reservation for a particular show, the system asks if the user wants to make another reservation or to confirm the reservation session, which will end the reservation session. The system saves all the reservations made in that session, technically saving them in an in-memory data structure of your choice such as arrays or array lists.
