@@ -1,5 +1,5 @@
 # Theater-Reservation-System-
-Models a real life theater reservation system where users can reserve seats for shows, cancel reservations, and be calculated a receipt.
+Models a real life theater reservation system with Java, allowing users to reserve seats for shows, cancel reservations, and be calculated and printed a receipt for their transaction.
 
 Overview
 -----------------------------------
