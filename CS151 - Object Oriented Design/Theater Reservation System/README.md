@@ -62,32 +62,3 @@ Group discount will be applied for the tickets purchased for a single show.
 Group discount will be applied for the tickets purchased for several sections in a show. For example, a user reserve seats for a particular show through multiple reservation sessions (remember a reservation session begins with [R] and ends with a user confirmation), the latest reservation should apply a discount considering previous reservations made for the show. For example, if a user reserved 2 seats in one reservation session and reserved 3 more seats in another reservation session for the same show, the system considers the user reserved 5 seats for the show and applies the group discount.
 Cancellation in part or whole may cause recalculation of ticket price if the number of tickets fall below the lower limit of people. (i.e. 11 tickets reserved, 2 cancel, ticket prices recalculated for 5-10 bracket)
 
-Submission 
------------------------------------
-Create a folder called hw1 and include the following content:
-
-Use cases. Name the file use-cases.doc or use-cases.pdf.
-List of final classes and responsibilities identified using CRC cards. Convert your notecards into a text file and name it file crc-cards.doc/pdf/txt
-UML class diagram (simple class diagram with only class names).  Create a file called class-diagram.doc/pdf
-UML sequence diagram (draw it using violet or similar software) - Submit one sequence diagram for the "to make a reservation" use case. Name the file sequence-diagram.doc/pdf
-Following screenshots from a program execution. Make sure each screen shot clearly shows the system prompt, user input and the system response. Label each screenshot clearly.  Create a file called screenshots.doc/pdf 
-
-
-1. Sign up
-2. Sign in with an invalid user id
-3. Sign in with an invalid password
-4. Sign in with a valid credential
-5. Start a reservation session. Reserve 10 seats across different sections for a given show, say Show A. (at least one seat from each section) (Do not end the reservation section yet.)
-6. Try to Reserve one more seat of Show A that will cause an error because the seat is not available.
-7. Reserve 5 seats for another show, say Show B, on a discount night (group discount is not applied on a discount night), and end this reservation session.
-8. Start another reservation session. Reserve 5 more seats of Show A.
-9. In the same session, cancel 2 seats from Show A and 1 seat from Show B and end the reservation session.
-10. View the reservations by date.
-11. View the entire reservations.
-12. Sign out. Show the receipt for the transaction.
-13. Sign up another user, sign in the user and reserve 2~3 seats, view the reservation, and sign out the user.
-14. Exit the program. Show the content of reservation.txt
-
-Create a folder called "code" and place your Java files in it. 
- 
-
