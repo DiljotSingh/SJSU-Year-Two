@@ -1,0 +1,34 @@
+User: user1, Password: pass1
+December 27, 2020; 6:30PM. Seats reserved: [M3, S3, W43, M34]
+December 29, 2020; 6:30PM. Seats reserved: [M2, M3, M4, W2, W7, S1, S3, E1, E2, W45, S44, M144, M24]
+
+
+User: user2, Password: pass2
+January 2, 2021; 8:30PM. Seats reserved: [M34, S32, W11]
+
+
+User: user3000, Password: pass3000
+December 27, 2020; 6:30PM. Seats reserved: [M6, W34, E11, M98]
+December 28, 2020; 6:30PM. Seats reserved: [M1, M3, M7, S45]
+
+
+User: newuser32, Password: abcdefg
+December 24, 2020; 6:30PM. Seats reserved: [M1, M2, M3, S1, S2, S3, E1, E5, E8, W23, W75, W100]
+
+
+User: user7, Password: 123123
+January 1, 2021; 8:30PM. Seats reserved: [E100, S34]
+
+
+User: user5, Password: pass5
+December 29, 2020; 6:30PM. Seats reserved: [W43, S31]
+
+
+User: user3, Password: pass3
+December 23, 2020; 6:30PM. Seats reserved: [M1, M2, S34, E91]
+December 27, 2020; 6:30PM. Seats reserved: [M32, M1, S45]
+December 31, 2020; 8:30PM. Seats reserved: [M1, M2, M3, S45, W2]
+
+
+User: user4, Password: pass4
+January 2, 2021; 8:30PM. Seats reserved: [M12, S50, E33]
